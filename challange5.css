@@ -1,0 +1,73 @@
+.challange5{
+    padding: 10px;
+    margin: auto;
+    width: 85%;
+    height: 95%;
+    align-content: center;
+    border: 2px solid black;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
+
+.players{
+    border: 1px solid black;
+    justify-content: space-around;
+    border: 2px solid black;
+    height: 57%;
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    align-content: space-around;
+    background: url('https://steamuserimages-a.akamaihd.net/ugc/1776083788547051035/67F3251194258A105EF1633C4BBCB4AD3FA3EC0D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true') center;
+    color: #ffffff;
+}
+
+
+.players div {
+    padding: 10px;
+    height: auto;
+    flex: 1;
+    border: 2px solid blue;
+    margin: 0 auto;
+    text-align: center;
+    align-content: space-around;
+    justify-content: space-between;
+}
+
+
+.holder {
+    display: flex;
+    flex-wrap: wrap;
+    height: 70px;
+    border: 2px solid black;
+    justify-content: center;
+    align-content: space-around;
+    background: url('https://steamuserimages-a.akamaihd.net/ugc/1776083788547051035/67F3251194258A105EF1633C4BBCB4AD3FA3EC0D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true') center;
+    color: #ffffff;
+}
+
+.button_div {
+    margin: auto;
+    padding: 5px;
+    border: 2px solid blue;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.table-row{
+ border:1px solid red;
+ height: 70px;
+ justify-content: center;
+ align-content: space-around;
+
+}
+   
+
+.tabl, th, td{
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    margin: auto;
+    font-weight: bold;
+}
